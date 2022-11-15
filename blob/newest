@@ -1,0 +1,5 @@
+BindFunction:LocalPlayer
+
+local _G.Settings {
+  NickHider == false
+  PrisimSucks == true
